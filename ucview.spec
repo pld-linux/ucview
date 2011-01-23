@@ -2,7 +2,7 @@ Summary:	UCView - video capture and display program based on unicap libraries
 Summary(pl.UTF-8):	UCView - program do przechwytywania i wyświetlania obrazu oparty na bibliotekach unicap
 Name:		ucview
 Version:	0.33
-Release:	0.1
+Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Multimedia
 #Source0Download: http://unicap-imaging.org/download.htm
